@@ -10,19 +10,12 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a para GataBot-MD | Add the numbers to be Owner for GataBot-MD ⋅.━━━━ ⊰  
 
-global.owner = [
+global.owner = ["9837329484", '𝙊𝙬𝙣𝙚𝙧 💻🐈', true], //ESMERALDA.BOT
+["9831913235", '𝙊𝙬𝙣𝙚𝙧 💻🐈', true], //ESMERALDA.BOT
 ["5492266466080", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
-["573026191480"], 
-["5492266466080"], 
-["593968585383"], 
-["51982233590"],
-["5492266613038"],
-["51948705559"],
-["51948273587"],
-["51906662557"],
-["5217294888993"]]
+["573026191480"], ["5492266466080"], ["593968585383"], ["51982233590"], ["5492266613038"], ["51948705559"], ["51948273587"], ["51906662557"]]
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
@@ -30,7 +23,7 @@ global.botNumberCode = "" //Ejemplo: +59309090909
 global.confirmCode = ""
 
 global.mods = []
-global.prems = ["528451003894"]
+global.prems = []
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"]
    
@@ -44,7 +37,7 @@ global.Key360 = ["964f-0c75-7afc"]
 
 global.lenguajeGB = es //Idioma de GataBot, Ejemplo: es | en | pt...
 
-//━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.openai_key = 'sk-0'
 /* Consigue tu ApiKey en este enlace: https://platform.openai.com/account/api-keys */
@@ -103,17 +96,17 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.official = [ // Agregate si eres Owner
+global.official = ["9831913235", 'ESMERALDA.BOT 💻🐈', 1], // Agregate si eres Owner
 ["18059196237", 'Gata Dios 💻', 1], 
 ["5492266466080", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ["59894808483", '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
 ["5521989092076", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
 ["5491173694367", 'Soporte', 1]]
 
-global.mail = '' //agrega tú correo
-global.desc = '' //agrega una descripción corta
-global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.mail = 'jhinnakauil345@gmail.com' //agrega tú correo
+global.desc = 'ESMERALDA.BOT es inteligencia artificial' //agrega una descripción corta
+global.desc2 = 'ESMERALDA.BOT es inteligencia artificial que se encarga de identificar mensajes de los usuarios y, con base en su programación, dar una respuesta oportuna' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
+global.country = 'MX' //agrega tú país ejemplo: 🇪🇨
 
 global.packname = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
 global.author = "𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
